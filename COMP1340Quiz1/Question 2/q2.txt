@@ -1,7 +1,0 @@
-Question 2
-The "git status command" is not mandatory to type in each time you run commonds
-on git though it should be used frequently when in use to see which step was last saved.
-
-The commands "ls", "git status", and "pwd" fail when typed after first typing node because
-we have exited the main directory of our computer and have entered in javascript.
-git.help or .help is the command used in search for a way to exit or other options.
